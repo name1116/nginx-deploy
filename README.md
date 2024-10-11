@@ -1,2 +1,3 @@
 # nginx-deploy
 * 감지 완료...
+* GHCR 추가
